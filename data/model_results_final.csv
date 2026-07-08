@@ -1,0 +1,8 @@
+name,R2,RMSE,MedAE,n_feat
+A — Estructura + ACS Censo (Baseline),0.5028,52.72,30.94,31
+B — Solo Earth Embeddings (Satélite),0.0778,71.8,48.99,64
+C — Estructura + ACS + Embeddings,0.5011,52.81,31.5,95
+D — Estructura + ACS + NDVI,0.5053,52.58,30.88,34
+E — Estructura + ACS + OSM Urbano,0.5127,52.19,30.79,38
+F — Estructura + ACS + Crimen + Walk,0.4803,53.9,31.89,34
+G — COMPLETO (Todas las capas) ★,0.4848,53.66,32.03,108
